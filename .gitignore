@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/out/production/ArrayListExamples/.gitattributes
+/out/production/ArrayListExamples/.gitignore
+/out/production/ArrayListExamples/ap-2020exam-sample-questions-computer-science.pdf
+/out/production/ArrayListExamples/.idea/compiler.xml
+/out/production/ArrayListExamples/README.md
+/out/production/ArrayListExamples/.idea/vcs.xml
