@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-
-
 public class ApExam2020Question1
 {
    public static void main(String[] args)
